@@ -1,3 +1,5 @@
+> Personal fork maintained by chingizhumbatov. Version 1.16.5 pins ssh2 1.17.0 to fix SFTP date encoding on modern Node.js. Disable other SFTP extensions before enabling this fork. See [FORK.md](FORK.md).
+
 # sftp sync extension for VS Code
 
 New maintained and updated version by [@Natizyskunk](https://github.com/Natizyskunk/) 😀 <!-- and [@satiromarra](https://github.com/satiromarra) --> <br>

@@ -35,3 +35,12 @@ bower_components
 .bower-cache
 .bower-registry
 .bower-tmp
+
+# Local credentials and build artifacts
+.env
+.env.*
+*.pem
+*.key
+*.vsix
+id_rsa
+id_ed25519
